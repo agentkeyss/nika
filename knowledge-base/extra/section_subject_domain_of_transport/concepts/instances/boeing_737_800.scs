@@ -1,0 +1,12 @@
+boeing_737_800
+<- concept_passenger_aviation;
+=> nrel_main_idtf:
+	   [Пассажирский самолет Boeing 737-800]
+   (* <- lang_ru;; *);
+=> nrel_note:
+   [Пассажирский самолет Boeing 737-800 — это популярный среднемагистральный узкофюзеляжный самолёт семейства Boeing 737 NG (Next Generation), производившийся с 1997 по 2019 год для замены модели 737-400.]
+   (* <- lang_ru;; *);
+=> nrel_capacity:
+   [189];
+=> nrel_weight:
+   [41140];;

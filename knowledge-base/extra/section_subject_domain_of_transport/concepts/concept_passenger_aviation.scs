@@ -1,0 +1,11 @@
+concept_passenger_aviation
+<- sc_node_class;
+<- class;
+=> nrel_main_idtf:
+    [пассажирская авиация]
+    (* <- lang_ru;; *);
+=> nrel_note:
+    [пассажирская авиация - это авиация, предназначенная и оборудованная для перевозки пассажиров и багажа.]
+    (* <- lang_ru;; *);
+=> nrel_related_concept:
+    concept_cargo_aviation;;

@@ -1,0 +1,15 @@
+concept_special_purpose_aviation
+<- sc_node_class;
+<- class;
+=> nrel_main_idtf:
+    [авиация специального назначения]
+    (* <- lang_ru;; *);
+=> nrel_note:
+    [авиация специального назначения - это авиация, которая выполняет узкоспециализированные или вспомогательные задачи.]
+    (* <- lang_ru;; *);
+=> nrel_inclusion:
+    concept_agricultural_aviation;
+    concept_airport;
+=> nrel_related_concept:
+    concept_private_aviation;
+    concept_commercial_aviation;;

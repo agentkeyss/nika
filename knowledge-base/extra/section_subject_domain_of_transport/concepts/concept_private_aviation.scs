@@ -1,0 +1,12 @@
+concept_private_aviation
+<- sc_node_class;
+<- class;
+=> nrel_main_idtf:
+    [частная авиация]
+    (* <- lang_ru;; *);
+=> nrel_note:
+    [частная авиация - это авиация, используемая для индивидуальных и корпоративных перелетов, не привязанная к расписанию коммерческих авиакомпаний.]
+    (* <- lang_ru;; *);
+=> nrel_related_concept:
+    concept_special_purpose_aviation;
+    concept_commercial_aviation;;

@@ -1,0 +1,14 @@
+concept_air_transport
+<- sc_node_class;
+<- class;
+=> nrel_main_idtf:
+    [воздушный транспорт]
+    (* <- lang_ru;; *);
+=> nrel_note:
+    [воздушный транспорт - это понятие, включающее как собственно воздушные суда, так и необходимую для их эксплуатации инфраструктуру: аэропорты, диспетчерские и технические службы.]
+    (* <- lang_ru;; *);
+=> nrel_inclusion:
+    concept_airplane;
+    concept_helicopter;
+    concept_airport;
+    concept_pilot;;
