@@ -1,0 +1,8 @@
+umms_icao_code
+<- concept_IATA_code;
+=> nrel_main_idtf:
+	[UMMS код ICAO]
+   (* <- lang_ru;; *);
+=> nrel_note:
+   [UMMS код ICAO — код ICAO для Национального аэропорта Минск.]
+   (* <- lang_ru;; *);;

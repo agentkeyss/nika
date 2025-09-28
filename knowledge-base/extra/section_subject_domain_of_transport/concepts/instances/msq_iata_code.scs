@@ -1,0 +1,8 @@
+msq_iata_code
+<- concept_IATA_code;
+=> nrel_main_idtf:
+	[MSQ код IATA]
+   (* <- lang_ru;; *);
+=> nrel_note:
+   [MSQ код IATA — код IATA для Национального аэропорта Минск.]
+   (* <- lang_ru;; *);;

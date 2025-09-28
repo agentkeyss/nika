@@ -1,0 +1,12 @@
+national_airport_minsk
+<- concept_airport;
+=> nrel_main_idtf:
+	[Национальный аэропорт Минск]
+   (* <- lang_ru;; *);
+=> nrel_note:
+   [Национальный аэропорт Минск — это главный международный аэропорт в Белоруссии.]
+   (* <- lang_ru;; *);
+=> nrel_IATA_code:
+    msq_iata_code;
+=> nrel_ICAO_code:
+    umms_icao_code;;

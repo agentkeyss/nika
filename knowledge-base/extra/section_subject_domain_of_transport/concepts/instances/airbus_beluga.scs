@@ -1,0 +1,14 @@
+airbus_beluga
+<- concept_cargo_aviation;
+=> nrel_main_idtf:
+	[Airbus Beluga]
+   (* <- lang_ru;; *);
+=> nrel_note:
+   [Airbus Beluga — это широкофюзеляжный реактивный грузовой самолёт Airbus для транспортировки крупногабаритных грузов.]
+   (* <- lang_ru;; *);
+=> nrel_capacity:
+   [2];
+=> nrel_weight:
+   [86500];
+=> nrel_cargo:
+    airplane_wing;;
