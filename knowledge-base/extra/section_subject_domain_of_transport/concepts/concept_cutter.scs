@@ -1,0 +1,9 @@
+concept_cutter
+<- sc_node_class;
+<- class;
+=> nrel_main_idtf:
+    [катер] (* <- lang_ru;; *);
+=> nrel_note:
+    [Катер — моторное судно малых размеров, используемое для служебных, военных и туристических целей.] (* <- lang_ru;; *);
+=> nrel_related_concept:
+    concept_boat;;

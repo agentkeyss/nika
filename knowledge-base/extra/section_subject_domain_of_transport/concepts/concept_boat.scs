@@ -1,0 +1,9 @@
+concept_boat
+<- sc_node_class;
+<- class;
+=> nrel_main_idtf:
+    [лодка] (* <- lang_ru;; *);
+=> nrel_note:
+    [Лодка — малое гребное или моторное судно.] (* <- lang_ru;; *);
+=> nrel_related_concept:
+    concept_cutter;;

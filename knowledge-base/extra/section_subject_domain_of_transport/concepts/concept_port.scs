@@ -1,0 +1,12 @@
+concept_port
+<- sc_node_class;
+<- class;
+=> nrel_main_idtf:
+    [порт] (* <- lang_ru;; *);
+=> nrel_note:
+    [Порт — комплекс сооружений на побережье, обеспечивающий приём, отправку и обслуживание судов.] (* <- lang_ru;; *);
+=> nrel_inclusion:
+    concept_river_port;
+    concept_seaport;;
+=> nrel_related_concept:
+    concept_airport;;

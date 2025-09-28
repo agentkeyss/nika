@@ -1,0 +1,9 @@
+concept_seaport
+<- sc_node_class;
+<- class;
+=> nrel_main_idtf:
+    [морской порт] (* <- lang_ru;; *);
+=> nrel_note:
+    [Морской порт — порт, расположенный на морском побережье, предназначенный для морского транспорта.] (* <- lang_ru;; *);
+=> nrel_related_concept:
+    concept_sea_transport;;

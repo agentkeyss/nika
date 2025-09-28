@@ -1,0 +1,10 @@
+concept_passenger_ship
+<- sc_node_class;
+<- class;
+=> nrel_main_idtf:
+    [пассажирское судно] (* <- lang_ru;; *);
+=> nrel_note:
+    [Пассажирское судно — это судно, предназначенное для перевозки людей.] (* <- lang_ru;; *);
+=> nrel_related_concept:
+    concept_passenger;
+    concept_passenger_aviation;;
