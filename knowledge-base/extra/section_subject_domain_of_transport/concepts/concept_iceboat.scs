@@ -1,0 +1,9 @@
+concept_iceboat
+<- sc_node_class;
+<- class;
+=> nrel_main_idtf:
+    [буер] (* <- lang_ru;; *);
+=> nrel_note:
+    [Буер — парусное судно на коньках, предназначенное для движения по замёрзшей поверхности воды.] (* <- lang_ru;; *);
+=> nrel_related_concept:
+concept_yacht;;

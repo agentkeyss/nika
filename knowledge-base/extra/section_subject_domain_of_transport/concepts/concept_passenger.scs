@@ -1,0 +1,11 @@
+concept_passenger
+<- sc_node_class;
+<- class;
+=> nrel_main_idtf:
+    [пассажир]
+    (* <- lang_ru;; *);
+=> nrel_note:
+    [пассажир - это человек, который не является членом экипажа и который перевозится транспортным средством в соответствии с гласным или негласным договором перевозки.]
+    (* <- lang_ru;; *);;
+=> nrel_related_concept:
+    concept_passenger_aviation;;

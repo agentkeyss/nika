@@ -1,0 +1,10 @@
+concept_passenger_terminal
+<- sc_node_class;
+<- class;
+=> nrel_main_idtf:
+    [пассажирский вокзал] (* <- lang_ru;; *);
+=> nrel_note:
+    [Пассажирский вокзал — специализированное здание в порту для обслуживания пассажиров.] (* <- lang_ru;; *);
+=> nrel_related_concept:
+    concept_passenger;
+    concept_airport;;

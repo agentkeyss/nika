@@ -1,0 +1,15 @@
+concept_airplane
+<- sc_node_class;
+<- class;
+=> nrel_main_idtf:
+    [самолет]
+    (* <- lang_ru;; *);
+=> nrel_note:
+    [самолет - это класс воздушных судов тяжелее воздуха, предназначенных для полётов в атмосфере с помощью силового агрегата, создающего тягу и неподвижного относительно других частей аппарата крыла, создающего подъёмную силу.]
+    (* <- lang_ru;; *);
+=> nrel_inclusion:
+    concept_special_purpose_aviation;
+    concept_commercial_aviation;
+    concept_private_aviation;
+=> nrel_related_concept:
+    concept_helicopter;;

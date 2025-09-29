@@ -1,0 +1,10 @@
+project_03160_raptor
+<- concept_cutter;
+=> nrel_main_idtf:
+   [Катер проекта 03160 «Раптор»] (* <- lang_ru;; *);
+=> nrel_note:
+   [Скоростной патрульный катер ВМФ России.] (* <- lang_ru;; *);
+=> nrel_capacity:
+   [20];
+=> nrel_weight:
+   [23];;

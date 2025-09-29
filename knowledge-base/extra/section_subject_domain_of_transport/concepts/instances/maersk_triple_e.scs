@@ -1,0 +1,10 @@
+maersk_triple_e
+<- concept_cargo_ship;
+=> nrel_main_idtf:
+   [Контейнеровоз «Maersk Triple E»] (* <- lang_ru;; *);
+=> nrel_note:
+   [Один из крупнейших в мире контейнеровозов, используемый компанией Maersk Line.] (* <- lang_ru;; *);
+=> nrel_capacity:
+   [18270];
+=> nrel_weight:
+   [165000];;

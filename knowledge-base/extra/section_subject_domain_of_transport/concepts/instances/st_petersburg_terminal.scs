@@ -1,0 +1,6 @@
+st_petersburg_terminal
+<- concept_passenger_terminal;
+=> nrel_main_idtf:
+   [Морской пассажирский вокзал Санкт-Петербурга] (* <- lang_ru;; *);
+=> nrel_note:
+   [Терминал для приёма круизных и пассажирских судов в Санкт-Петербурге.] (* <- lang_ru;; *);;

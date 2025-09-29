@@ -1,0 +1,6 @@
+vladivostok_seaport
+<- concept_seaport;
+=> nrel_main_idtf:
+   [Морской порт Владивосток] (* <- lang_ru;; *);
+=> nrel_note:
+   [Крупный российский порт на берегу Японского моря.] (* <- lang_ru;; *);;

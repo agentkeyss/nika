@@ -1,0 +1,8 @@
+konstantin_passenger
+<- concept_passenger;
+=> nrel_main_idtf:
+	[Пассажир Константин]
+   (* <- lang_ru;; *);
+=> nrel_note:
+   [Пассажир Константин — пассажир воздушного транспорта.]
+   (* <- lang_ru;; *);;

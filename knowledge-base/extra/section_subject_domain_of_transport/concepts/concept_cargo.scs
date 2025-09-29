@@ -1,0 +1,11 @@
+concept_cargo
+<- sc_node_class;
+<- class;
+=> nrel_main_idtf:
+    [груз]
+    (* <- lang_ru;; *);
+=> nrel_note:
+    [груз - это товар, принимаемый для перевозки.]
+    (* <- lang_ru;; *);
+=> nrel_related_concept:
+    concept_cargo_aviation;;

@@ -1,0 +1,10 @@
+queen_mary_2
+<- concept_passenger_ship;
+=> nrel_main_idtf:
+   [Круизный лайнер «Queen Mary 2»] (* <- lang_ru;; *);
+=> nrel_note:
+   [Океанский лайнер, построенный в 2003 году, один из крупнейших пассажирских судов.] (* <- lang_ru;; *);
+=> nrel_capacity:
+   [2695];
+=> nrel_weight:
+   [148528];;

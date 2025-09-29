@@ -1,0 +1,10 @@
+volga_boat
+<- concept_boat;
+=> nrel_main_idtf:
+   [Лодка «Волга»] (* <- lang_ru;; *);
+=> nrel_note:
+   [Небольшая моторная лодка, используемая для рыбалки и прогулок по рекам.] (* <- lang_ru;; *);
+=> nrel_capacity:
+   [4];
+=> nrel_weight:
+   [0.25];;
