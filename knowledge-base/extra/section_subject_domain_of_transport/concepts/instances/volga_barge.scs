@@ -1,0 +1,10 @@
+volga_barge
+<- concept_water_transport;
+=> nrel_main_idtf:
+   [Баржа для перевозки зерна по Волге] (* <- lang_ru;; *);
+=> nrel_note:
+   [Речной несамоходный транспорт для перевозки зерновых грузов.] (* <- lang_ru;; *);
+=> nrel_capacity:
+   [5000];
+=> nrel_weight:
+   [1500];;

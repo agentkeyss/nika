@@ -1,0 +1,10 @@
+moscow_river_transport
+<- concept_river_transport;
+=> nrel_main_idtf:
+   [Прогулочный теплоход «Москва»] (* <- lang_ru;; *);
+=> nrel_note:
+   [Серия речных прогулочных теплоходов, используемых на Москве-реке.] (* <- lang_ru;; *);
+=> nrel_capacity:
+   [300];
+=> nrel_weight:
+   [200];;

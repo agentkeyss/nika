@@ -1,0 +1,10 @@
+kruzenshtern
+<- concept_ship;
+=> nrel_main_idtf:
+   [Парусное судно «Крузенштерн»] (* <- lang_ru;; *);
+=> nrel_note:
+   [Четырёхмачтовый барк, одно из крупнейших парусных судов в мире.] (* <- lang_ru;; *);
+=> nrel_capacity:
+   [257];
+=> nrel_weight:
+   [4700];;

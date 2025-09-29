@@ -1,0 +1,10 @@
+syrena_yacht
+<- concept_yacht;
+=> nrel_main_idtf:
+   [Яхта «Syrena»] (* <- lang_ru;; *);
+=> nrel_note:
+   [Современная парусная яхта для морских прогулок.] (* <- lang_ru;; *);
+=> nrel_capacity:
+   [12];
+=> nrel_weight:
+   [20];;

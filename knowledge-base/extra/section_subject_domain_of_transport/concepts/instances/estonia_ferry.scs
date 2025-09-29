@@ -1,0 +1,10 @@
+estonia_ferry
+<- concept_ferry;
+=> nrel_main_idtf:
+   [Паром «MS Estonia»] (* <- lang_ru;; *);
+=> nrel_note:
+   [Пассажирский паром, затонувший в Балтийском море в 1994 году.] (* <- lang_ru;; *);
+=> nrel_capacity:
+   [2000];
+=> nrel_weight:
+   [15766];;

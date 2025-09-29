@@ -1,0 +1,6 @@
+rotterdam_port
+<- concept_port;
+=> nrel_main_idtf:
+   [Порт Роттердам] (* <- lang_ru;; *);
+=> nrel_note:
+   [Крупнейший морской порт Европы, расположенный в Нидерландах.] (* <- lang_ru;; *);;
