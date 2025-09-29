@@ -1,0 +1,30 @@
+nrel_ICAO_code
+<- sc_node_norole_relation;
+<- relation;
+<- binary_relation;
+<- oriented_relation;
+<- antireflexive_relation;
+<- asymmetric_relation;
+<- antitransitive_relation;
+=> nrel_first_domain: concept_airport;
+=> nrel_second_domain: concept_ICAO_code;
+=> nrel_main_idtf:
+   [код ICAO*]
+   (* <- lang_ru;; *);
+<- rrel_key_sc_element:
+   ...
+   (*
+      => nrel_main_idtf:
+   	   [Опр. (код ICAO*)]
+   	   (* <- lang_ru;; *);;
+      <- definition;;
+      <= nrel_sc_text_translation:
+   	    ...
+   	    (*
+   	       -> rrel_example:
+   		    [код ICAO* - бинарное 
+               ориентированное отношение, связывающее 
+               аэропорт и код ICAO.]
+   		    (* <- lang_ru;; *);;
+   	    *);;
+  *);;

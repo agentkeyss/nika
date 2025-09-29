@@ -1,0 +1,16 @@
+concept_helicopter
+<- sc_node_class;
+<- class;
+=> nrel_main_idtf:
+    [вертолет]
+    (* <- lang_ru;; *);
+=> nrel_note:
+    [вертолет - это винтокрылый летательный аппарат вертикального взлёта и посадки, у которого подъёмная и движущая силы на всех этапах полёта создаются одним или несколькими несущими винтами с приводом от одного или нескольких двигателей.]
+    (* <- lang_ru;; *);
+=> nrel_inclusion:
+    concept_special_purpose_aviation;
+    concept_commercial_aviation;
+    concept_private_aviation;
+=> nrel_related_concept:
+    concept_airplane;;
+    
