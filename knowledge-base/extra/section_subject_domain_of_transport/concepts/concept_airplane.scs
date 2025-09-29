@@ -10,6 +10,6 @@ concept_airplane
 => nrel_inclusion:
     concept_special_purpose_aviation;
     concept_commercial_aviation;
-    concept_private_aviationl;
+    concept_private_aviation;
 => nrel_related_concept:
     concept_helicopter;;
