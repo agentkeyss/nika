@@ -8,5 +8,7 @@ concept_vehicle
     [транспортное средство - это любое техническое устройство, предназначенное для перевозки людей, грузов или оборудования по дорогам, воде или воздуху.]
     (* <- lang_ru;; *);;
 => nrel_inclusion:
+    concept_boat;
+    concept_ship;
     concept_airplane;
     concept_helicopter;;

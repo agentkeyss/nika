@@ -8,4 +8,5 @@ concept_cargo
     [груз - это товар, принимаемый для перевозки.]
     (* <- lang_ru;; *);
 => nrel_related_concept:
+    concept_cargo_ship;
     concept_cargo_aviation;;

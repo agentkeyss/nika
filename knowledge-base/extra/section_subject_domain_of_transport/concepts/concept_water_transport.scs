@@ -7,6 +7,11 @@ concept_water_transport
     [Водный транспорт — вид транспорта, использующий водные пути для перевозки грузов и пассажиров.] (* <- lang_ru;; *);
 => nrel_inclusion:
    concept_ship;
+   concept_boat;
+   concept_furry;
+   concept_cutter;
+   concept_yacht;
+   concept_iceboat;
    concept_river_transport;
    concept_sea_transport;;
 => nrel_related_concept:
