@@ -9,13 +9,13 @@ nrel_attached_to
 => nrel_first_domain: concept_freight_vehicle;
 => nrel_second_domain: concept_trailer;
 => nrel_main_idtf:
-	[прицеп_прикреплён_к*]
+	[прицеп прикреплён к*]
    (* <- lang_ru;; *);
 <- rrel_key_sc_element:
 	...
 	(*
 	   => nrel_main_idtf:
-	   	 [Опр. (прицеп_прикреплён_к*)]
+	   	 [Опр. (прицеп прикреплён к*)]
 	   	 (* <- lang_ru;; *);;
 	   <- definition;;
 	   <= nrel_sc_text_translation:
