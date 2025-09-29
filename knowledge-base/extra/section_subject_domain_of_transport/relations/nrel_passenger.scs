@@ -6,8 +6,7 @@ nrel_passenger
 <- antireflexive_relation;
 <- asymmetric_relation;
 <- antitransitive_relation;
-=> nrel_first_domain: concept_airplane;
-=> nrel_first_domain: concept_helicopter;
+=> nrel_first_domain: concept_vehicle;
 => nrel_second_domain: concept_passenger;
 => nrel_main_idtf:
    [пассажир*]

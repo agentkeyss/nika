@@ -1,0 +1,12 @@
+concept_vehicle
+<- sc_node_class;
+<- class;
+=> nrel_main_idtf:
+    [транспортное средство]
+    (* <- lang_ru;; *);
+=> nrel_note:
+    [транспортное средство - это любое техническое устройство, предназначенное для перевозки людей, грузов или оборудования по дорогам, воде или воздуху.]
+    (* <- lang_ru;; *);;
+=> nrel_inclusion:
+    concept_airplane;
+    concept_helicopter;;
