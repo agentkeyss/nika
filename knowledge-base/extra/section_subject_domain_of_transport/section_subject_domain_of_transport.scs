@@ -18,9 +18,25 @@ subject_domain_of_transport
 -> rrel_maximum_studied_object_class:
 
 -> rrel_not_maximum_studied_object_class:
-
+    concept_boat;
+    concept_cargo_ship;
+    concept_cutter;
+    concept_ferry;
+    concept_iceboat;
+    concept_passenger_ship;
+    concept_passenger_terminal;
+    concept_port;
+    concept_river_port;
+    concept_river_transport;
+    concept_seaport;
+    concept_sea_transport;
+    concept_ship;
+    concept_water_transport;
+    concept_yacht;
 -> rrel_explored_relation:
-
+    nrel_port;
+    nrel_seaworthiness;
+    nrel_terminal;
 ;;
 *];;
 
