@@ -6,4 +6,6 @@ concept_electricity
    (* <- lang_ru;; *);
 => nrel_note:
 	[энергия для электродвигателей (аккумуляторы/зарядные сети).]
-   (* <- lang_ru;; *);;
+   (* <- lang_ru;; *);
+=> nrel_related_concept:
+   concept_fuel;;

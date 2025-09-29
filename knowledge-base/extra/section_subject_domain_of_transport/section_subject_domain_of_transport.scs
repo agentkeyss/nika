@@ -1,0 +1,73 @@
+section_subject_domain_of_transport
+=> nrel_main_idtf:
+    [Раздел. Предметная область транспорта]
+    (* <- lang_ru;; *);
+    [Section. Subject domain of transport]
+    (* <- lang_en;; *);
+<- atomic_section;;
+
+section_subject_domain_of_transport = [*
+subject_domain_of_transport
+<- sc_node_struct;
+=> nrel_main_idtf:
+    [Предметная область транспорта]
+    (* <- lang_ru;; *);
+    [Subject domain of transport]
+    (* <- lang_en;; *);
+<- subject_domain;
+-> rrel_maximum_studied_object_class:
+
+-> rrel_not_maximum_studied_object_class:
+    concept_bus;
+    concept_city_bus;
+    concept_coach;
+    concept_electricity;
+    concept_ev_car;
+    concept_freight_vehicle;
+    concept_fuel;
+    concept_ground_transport;
+    concept_trailer;
+    concept_taxi;
+    concept_VIN_code;
+    concept_registration_plate;
+    concept_private_car;
+    concept_passenger_vehicle;
+    concept_motorcycle;
+    concept_manufacturer;
+    concept_light_truck;
+    concept_ice_car;
+    concept_heavy_truck;
+-> rrel_explored_relation:
+    nrel_attached_to;
+    nrel_fuel_type;
+    nrel_manufacturer;
+    nrel_registration_plate;
+    nrel_VIN;;
+*];;
+
+section_subject_domain_of_transport
+-> rrel_key_sc_element:
+    concept_bus;
+    concept_city_bus;
+    concept_coach;
+    concept_electricity;
+    concept_ev_car;
+    concept_freight_vehicle;
+    concept_fuel;
+    concept_ground_transport;
+    concept_trailer;
+    concept_taxi;
+    concept_VIN_code;
+    concept_registration_plate;
+    concept_private_car;
+    concept_passenger_vehicle;
+    concept_motorcycle;
+    concept_manufacturer;
+    concept_light_truck;
+    concept_ice_car;
+    concept_heavy_truck;
+    nrel_attached_to;
+    nrel_fuel_type;
+    nrel_manufacturer;
+    nrel_registration_plate;
+    nrel_VIN;;

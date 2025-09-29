@@ -10,4 +10,6 @@ concept_freight_vehicle
 => nrel_inclusion:
 	concept_light_truck;
 	concept_heavy_truck;
-	concept_trailer;;
+	concept_trailer;
+=> nrel_related_concept:
+	concept_passenger_vehicle;;

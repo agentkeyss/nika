@@ -11,6 +11,6 @@ concept_passenger_vehicle
 	concept_private_car;
 	concept_taxi;
 	concept_bus;
-	concept_city_bus;
-	concept_coach;
-	concept_ev_car;;
+	concept_ev_car;
+=> nrel_related_concept:
+	concept_freight_vehicle;;

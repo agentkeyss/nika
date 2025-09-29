@@ -1,0 +1,26 @@
+nrel_related_concept
+<- sc_node_norole_relation;
+<- relation;
+<- binary_relation;
+<- oriented_relation;
+<- antireflexive_relation;
+<- symmetric_relation;
+<- antitransitive_relation;
+=> nrel_main_idtf:
+	[связанное понятие*]
+   (* <- lang_ru;; *);
+<- rrel_key_sc_element:
+	...
+	(*
+	   => nrel_main_idtf:
+	   	 [Опр. (связанное понятие*)]
+	   	 (* <- lang_ru;; *);;
+	   <- definition;;
+	   <= nrel_sc_text_translation:
+	   	...
+	   	(*
+	   	   -> rrel_example:
+	   	   	[связанное понятие* - бинарное ориентированное отношение, показывающее, одно определение связано с другим семантически.]
+	   	   	(* <- lang_ru;; *);;
+	   	*);;
+	*);;

@@ -6,4 +6,6 @@ concept_fuel
    (* <- lang_ru;; *);
 => nrel_note:
 	[жидкое топливо для ДВС.]
-   (* <- lang_ru;; *);;
+   (* <- lang_ru;; *);
+=> nrel_related_concept:
+   concept_electricity;;
