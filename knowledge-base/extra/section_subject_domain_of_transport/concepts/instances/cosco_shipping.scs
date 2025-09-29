@@ -1,0 +1,6 @@
+cosco_shipping
+<- concept_sea_transport;
+=> nrel_main_idtf:
+   [Компания «COSCO Shipping»] (* <- lang_ru;; *);
+=> nrel_note:
+   [Китайская государственная судоходная компания, осуществляющая морские перевозки.] (* <- lang_ru;; *);;

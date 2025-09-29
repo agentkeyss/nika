@@ -1,0 +1,10 @@
+dn_iceboat
+<- concept_iceboat;
+=> nrel_main_idtf:
+   [Буер класса DN] (* <- lang_ru;; *);
+=> nrel_note:
+   [Спортивный буер для гонок по льду, один из самых массовых классов.] (* <- lang_ru;; *);
+=> nrel_capacity:
+   [1];
+=> nrel_weight:
+   [0.12];;

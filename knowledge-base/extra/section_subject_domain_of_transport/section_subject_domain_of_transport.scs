@@ -16,10 +16,25 @@ subject_domain_of_transport
     (* <- lang_en;; *);
 <- subject_domain;
 -> rrel_maximum_studied_object_class:
-    concept_transport;
+    concept_transport; 
+-> rrel_not_maximum_studied_object_class:
     concept_passenger;
     concept_cargo;
--> rrel_not_maximum_studied_object_class:
+    concept_boat;
+    concept_cargo_ship;
+    concept_cutter;
+    concept_ferry;
+    concept_iceboat;
+    concept_passenger_ship;
+    concept_passenger_terminal;
+    concept_port;
+    concept_river_port;
+    concept_river_transport;
+    concept_seaport;
+    concept_sea_transport;
+    concept_ship;
+    concept_water_transport;
+    concept_yacht;
     concept_agricultural_aviation;
     concept_air_transport;
     concept_airplane;
@@ -42,14 +57,31 @@ subject_domain_of_transport
     nrel_ICAO_code;
     nrel_passenger;
     nrel_pilot;
+    nrel_port;
+    nrel_seaworthiness;
+    nrel_terminal;
     nrel_weight;;
 *];;
 
 section_subject_domain_of_transport
 -> rrel_key_sc_element:
-    concept_transport;
     concept_passenger;
     concept_cargo;
+    concept_boat;
+    concept_cargo_ship;
+    concept_cutter;
+    concept_ferry;
+    concept_iceboat;
+    concept_passenger_ship;
+    concept_passenger_terminal;
+    concept_port;
+    concept_river_port;
+    concept_river_transport;
+    concept_seaport;
+    concept_sea_transport;
+    concept_ship;
+    concept_water_transport;
+    concept_yacht;
     concept_agricultural_aviation;
     concept_air_transport;
     concept_airplane;
@@ -70,5 +102,8 @@ section_subject_domain_of_transport
     nrel_IATA_code;
     nrel_ICAO_code;
     nrel_passenger;
+    nrel_port;
+    nrel_seaworthiness;
+    nrel_terminal;
     nrel_pilot;
     nrel_weight;;

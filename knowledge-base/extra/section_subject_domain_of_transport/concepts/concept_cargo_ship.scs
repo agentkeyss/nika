@@ -1,0 +1,10 @@
+concept_cargo_ship
+<- sc_node_class;
+<- class;
+=> nrel_main_idtf:
+    [грузовое судно] (* <- lang_ru;; *);
+=> nrel_note:
+    [Грузовое судно — это судно, предназначенное для перевозки различных грузов.] (* <- lang_ru;; *);
+=> nrel_related_concept:
+    concept_cargo;
+    concept_cargo_aviation;;

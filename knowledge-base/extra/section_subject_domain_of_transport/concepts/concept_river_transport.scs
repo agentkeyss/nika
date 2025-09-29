@@ -1,0 +1,11 @@
+concept_river_transport
+<- sc_node_class;
+<- class;
+=> nrel_main_idtf:
+    [речной транспорт] (* <- lang_ru;; *);
+=> nrel_note:
+    [Речной транспорт — вид водного транспорта, осуществляющий перевозки по рекам и озёрам.] (* <- lang_ru;; *);
+=> nrel_inclusion:
+    concept_river_port;;
+=> nrel_related_concept:
+    concept_sea_transport;;
