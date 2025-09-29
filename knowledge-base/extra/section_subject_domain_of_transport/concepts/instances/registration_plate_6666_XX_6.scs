@@ -1,0 +1,8 @@
+registration_plate_6666_XX_6
+<- concept_registration_plate;
+=> nrel_main_idtf:
+	[Регистрационный знак 6666 XX-6]
+   (* <- lang_ru;; *);
+=> nrel_note:
+	[6666 XX-6 — регистрационный знак, присвоенный автомобилю Toyota Corolla 2010, зарегистрированному в Могилеве, Республика Беларусь.]
+   (* <- lang_ru;; *);;

@@ -1,0 +1,9 @@
+concept_manufacturer
+<- sc_node_class;
+<- class;
+=> nrel_main_idtf:
+	[производитель]
+   (* <- lang_ru;; *);
+=> nrel_note:
+	[компания/бренд — производитель транспортных средств.]
+   (* <- lang_ru;; *);;

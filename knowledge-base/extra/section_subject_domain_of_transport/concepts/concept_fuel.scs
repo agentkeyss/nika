@@ -1,0 +1,9 @@
+concept_fuel
+<- sc_node_class;
+<- class;
+=> nrel_main_idtf:
+	[дизель]
+   (* <- lang_ru;; *);
+=> nrel_note:
+	[жидкое топливо для ДВС.]
+   (* <- lang_ru;; *);;

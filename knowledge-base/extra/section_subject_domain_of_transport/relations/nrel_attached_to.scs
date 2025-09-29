@@ -1,0 +1,28 @@
+nrel_attached_to
+<- sc_node_norole_relation;
+<- relation;
+<- binary_relation;
+<- oriented_relation;
+<- antireflexive_relation;
+<- asymmetric_relation;
+<- antitransitive_relation;
+=> nrel_first_domain: concept_freight_vehicle;
+=> nrel_second_domain: concept_trailer;
+=> nrel_main_idtf:
+	[прицеп_прикреплён_к*]
+   (* <- lang_ru;; *);
+<- rrel_key_sc_element:
+	...
+	(*
+	   => nrel_main_idtf:
+	   	 [Опр. (прицеп_прикреплён_к*)]
+	   	 (* <- lang_ru;; *);;
+	   <- definition;;
+	   <= nrel_sc_text_translation:
+	   	...
+	   	(*
+	   	   -> rrel_example:
+	   	   	[прицеп прикреплён к* - бинарное ориентированное отношение, показывающее, что конкретный прицеп эксплуатируется совместно с конкретным тягачом.]
+	   	   	(* <- lang_ru;; *);;
+	   	*);;
+	*);;

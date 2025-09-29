@@ -1,0 +1,28 @@
+nrel_VIN
+<- sc_node_norole_relation;
+<- relation;
+<- binary_relation;
+<- oriented_relation;
+<- antireflexive_relation;
+<- asymmetric_relation;
+<- antitransitive_relation;
+=> nrel_first_domain: concept_ground_transport;
+=> nrel_second_domain: concept_VIN_code;
+=> nrel_main_idtf:
+	[VIN*]
+   (* <- lang_ru;; *);
+<- rrel_key_sc_element:
+	...
+	(*
+	   => nrel_main_idtf:
+	   	 [Опр. (VIN*)]
+	   	 (* <- lang_ru;; *);;
+	   <- definition;;
+	   <= nrel_sc_text_translation:
+	   	...
+	   	(*
+	   	   -> rrel_example:
+	   	   	[VIN* - бинарное ориентированное отношение, связывающее конкретный экземпляр транспортного средства и его уникальный VIN.]
+	   	   	(* <- lang_ru;; *);;
+	   	*);;
+	*);;

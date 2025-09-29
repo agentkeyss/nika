@@ -1,0 +1,8 @@
+manufacturer_toyota
+<- concept_manufacturer;
+=> nrel_main_idtf:
+	[TOYOTA Motor Corporation]
+   (* <- lang_ru;; *);
+=> nrel_note:
+	[TOYOTA Motor Corporation — японская компания, которая специализируется на производстве легковых и грузовых автомобилей, включая гибридные и электрические модели.]
+   (* <- lang_ru;; *);;
