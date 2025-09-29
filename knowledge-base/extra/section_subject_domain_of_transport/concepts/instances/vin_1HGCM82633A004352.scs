@@ -1,0 +1,8 @@
+vin_1HGCM82633A004352
+<- concept_VIN_code;
+=> nrel_main_idtf:
+	[1HGCM82633A004352]
+   (* <- lang_ru;; *);
+=> nrel_note:
+	[1HGCM82633A004352 — уникальный идентификационный номер конкретного автомобиля Toyota Corolla 2010, произведённого в Японии.]
+   (* <- lang_ru;; *);;

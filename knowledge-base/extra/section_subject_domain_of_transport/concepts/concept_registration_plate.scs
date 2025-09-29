@@ -1,0 +1,9 @@
+concept_registration_plate
+<- sc_node_class;
+<- class;
+=> nrel_main_idtf:
+	[регистрационный знак]
+   (* <- lang_ru;; *);
+=> nrel_note:
+	[номерной знак транспортного средства в государственном реестре.]
+   (* <- lang_ru;; *);;

@@ -49,7 +49,31 @@ subject_domain_of_transport
     concept_pilot;
     concept_private_aviation;
     concept_special_purpose_aviation;
+    concept_bus;
+    concept_city_bus;
+    concept_coach;
+    concept_electricity;
+    concept_ev_car;
+    concept_freight_vehicle;
+    concept_fuel;
+    concept_ground_transport;
+    concept_trailer;
+    concept_taxi;
+    concept_VIN_code;
+    concept_registration_plate;
+    concept_private_car;
+    concept_passenger_vehicle;
+    concept_motorcycle;
+    concept_manufacturer;
+    concept_light_truck;
+    concept_ice_car;
+    concept_heavy_truck;
 -> rrel_explored_relation:
+    nrel_attached_to;
+    nrel_fuel_type;
+    nrel_manufacturer;
+    nrel_registration_plate;
+    nrel_VIN;
     nrel_airport;
     nrel_capacity;
     nrel_cargo;
@@ -65,6 +89,25 @@ subject_domain_of_transport
 
 section_subject_domain_of_transport
 -> rrel_key_sc_element:
+    concept_bus;
+    concept_city_bus;
+    concept_coach;
+    concept_electricity;
+    concept_ev_car;
+    concept_freight_vehicle;
+    concept_fuel;
+    concept_ground_transport;
+    concept_trailer;
+    concept_taxi;
+    concept_VIN_code;
+    concept_registration_plate;
+    concept_private_car;
+    concept_passenger_vehicle;
+    concept_motorcycle;
+    concept_manufacturer;
+    concept_light_truck;
+    concept_ice_car;
+    concept_heavy_truck;
     concept_passenger;
     concept_cargo;
     concept_boat;
@@ -96,6 +139,11 @@ section_subject_domain_of_transport
     concept_pilot;
     concept_private_aviation;
     concept_special_purpose_aviation;
+    nrel_attached_to;
+    nrel_fuel_type;
+    nrel_manufacturer;
+    nrel_registration_plate;
+    nrel_VIN;;
     nrel_airport;
     nrel_capacity;
     nrel_cargo;

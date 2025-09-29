@@ -1,0 +1,16 @@
+concept_passenger_vehicle
+<- sc_node_class;
+<- class;
+=> nrel_main_idtf:
+	[пассажирский транспорт]
+   (* <- lang_ru;; *);
+=> nrel_note:
+	[Транспортные средства, предназначенные для перевозки людей на короткие или длинные расстояния. Движущая сила создаётся двигателем внутреннего сгорания или электродвигателем, передаётся на колёсные опоры через трансмиссию. Конструкция включает кузов, шасси, систему управления и силовую установку.]
+   (* <- lang_ru;; *);
+=> nrel_inclusion:
+	concept_private_car;
+	concept_taxi;
+	concept_bus;
+	concept_ev_car;
+=> nrel_related_concept:
+	concept_freight_vehicle;;
