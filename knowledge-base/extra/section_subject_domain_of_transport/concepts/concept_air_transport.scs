@@ -11,4 +11,6 @@ concept_air_transport
     concept_airplane;
     concept_helicopter;
     concept_airport;
-    concept_pilot;;
+    concept_pilot;
+    concept_IATA_code;
+    concept_ICAO_code;;

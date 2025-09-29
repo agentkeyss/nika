@@ -9,7 +9,6 @@ concept_special_purpose_aviation
     (* <- lang_ru;; *);
 => nrel_inclusion:
     concept_agricultural_aviation;
-    concept_airport;
 => nrel_related_concept:
     concept_private_aviation;
     concept_commercial_aviation;;
