@@ -1,0 +1,11 @@
+concept_cargo_aviation
+<- sc_node_class;
+<- class;
+=> nrel_main_idtf:
+    [грузовая авиация]
+    (* <- lang_ru;; *);
+=> nrel_note:
+    [грузовая авиация - это авиация, предназначенная для транспортировки различных грузов.]
+    (* <- lang_ru;; *);
+=> nrel_related_concept:
+    concept_passenger_aviation;;

@@ -1,0 +1,8 @@
+alexey_pilot
+<- concept_pilot;
+=> nrel_main_idtf:
+	[Пилот Алексей]
+   (* <- lang_ru;; *);
+=> nrel_note:
+   [Пилот Алексей — пилот воздушного транспорта.]
+   (* <- lang_ru;; *);;

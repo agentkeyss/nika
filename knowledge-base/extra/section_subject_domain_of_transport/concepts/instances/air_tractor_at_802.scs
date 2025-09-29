@@ -1,0 +1,12 @@
+air_tractor_at_802
+<- concept_agricultural_aviation;
+=> nrel_main_idtf:
+	[Air Tractor AT-802]
+   (* <- lang_ru;; *);
+=> nrel_note:
+   [Air Tractor AT-802 — это серия сельскохозяйственных самолётов, производства американской компании Air Tractor.]
+   (* <- lang_ru;; *);
+=> nrel_capacity:
+   [2];
+=> nrel_weight:
+   [2951];;

@@ -1,0 +1,12 @@
+gulfstream_g650
+<- concept_bussines_jet;
+=> nrel_main_idtf:
+    [Gulfstream G650]
+    (* <- lang_ru;; *);
+=> nrel_note:
+   [Gulfstream G650 — это реактивный двухдвигательный самолёт бизнес-класса, выпускаемый корпорацией Gulfstream Aerospace.]
+   (* <- lang_ru;; *);
+=> nrel_capacity:
+   [18];
+=> nrel_weight:
+   [24490];;

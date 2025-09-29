@@ -1,0 +1,9 @@
+concept_pilot
+<- sc_node_class;
+<- class;
+=> nrel_main_idtf:
+    [пилот]
+    (* <- lang_ru;; *);
+=> nrel_note:
+    [пилот - это человек, управляющий летательным аппаратом, находясь на его борту.]
+    (* <- lang_ru;; *);;

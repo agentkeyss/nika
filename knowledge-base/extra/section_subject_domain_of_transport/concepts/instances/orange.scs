@@ -1,0 +1,8 @@
+orange
+<- concept_cargo;
+=> nrel_main_idtf:
+	[Апельсин]
+   (* <- lang_ru;; *);
+=> nrel_note:
+   [Апельсин — это плод апельсинного дерева.]
+   (* <- lang_ru;; *);;
