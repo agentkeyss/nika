@@ -6,4 +6,4 @@ concept_yacht
 => nrel_note:
     [Яхта — судно, используемое для отдыха, спорта и туризма.] (* <- lang_ru;; *);
 => nrel_related_concept:
-    concept_private_aviation;;
+    concept_water_transport;;

@@ -8,4 +8,5 @@ concept_sea_transport
 => nrel_inclusion:
     concept_seaport;;
 => nrel_related_concept:
+    concept_water_transport;
     concept_river_transport;;

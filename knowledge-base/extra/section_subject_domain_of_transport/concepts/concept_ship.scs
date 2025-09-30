@@ -6,5 +6,4 @@ concept_ship
 => nrel_note:
     [Судно — транспортное средство, предназначенное для передвижения по воде и перевозки людей или грузов.] (* <- lang_ru;; *);
 => nrel_related_concept:
-    concept_airplane;
-    concept_helicopter;;
+    concept_water_transport;;

@@ -6,7 +6,7 @@ nrel_seaworthiness
 <- asymmetric_relation;
 <- antireflexive_relation;
 => nrel_first_domain: concept_sea_transport;
-=> nrel_second_domain: concept_seaworthiness;
+=> nrel_second_domain: concept_value_seaworthiness;
 => nrel_main_idtf:
    [мореходность*] (* <- lang_ru;; *);
 <- rrel_key_sc_element:

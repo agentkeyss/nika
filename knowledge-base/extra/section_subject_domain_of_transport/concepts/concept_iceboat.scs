@@ -6,4 +6,4 @@ concept_iceboat
 => nrel_note:
     [Буер — парусное судно на коньках, предназначенное для движения по замёрзшей поверхности воды.] (* <- lang_ru;; *);
 => nrel_related_concept:
-concept_yacht;;
+    concept_water_transport;;
