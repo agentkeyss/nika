@@ -6,6 +6,6 @@ concept_river_transport
 => nrel_note:
     [Речной транспорт — вид водного транспорта, осуществляющий перевозки по рекам и озёрам.] (* <- lang_ru;; *);
 => nrel_inclusion:
-    concept_river_port;;
+    concept_river_port;
 => nrel_related_concept:
     concept_sea_transport;;

@@ -13,6 +13,6 @@ concept_water_transport
    concept_yacht;
    concept_iceboat;
    concept_river_transport;
-   concept_sea_transport;;
+   concept_sea_transport;
 => nrel_related_concept:
    concept_transport;;

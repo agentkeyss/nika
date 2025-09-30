@@ -7,6 +7,6 @@ concept_port
     [Порт — комплекс сооружений на побережье, обеспечивающий приём, отправку и обслуживание судов.] (* <- lang_ru;; *);
 => nrel_inclusion:
     concept_river_port;
-    concept_seaport;;
+    concept_seaport;
 => nrel_related_concept:
     concept_airport;;

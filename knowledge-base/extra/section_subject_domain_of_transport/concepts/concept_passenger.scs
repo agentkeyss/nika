@@ -6,7 +6,7 @@ concept_passenger
     (* <- lang_ru;; *);
 => nrel_note:
     [пассажир - это человек, который не является членом экипажа и который перевозится транспортным средством в соответствии с гласным или негласным договором перевозки.]
-    (* <- lang_ru;; *);;
+    (* <- lang_ru;; *);
 => nrel_related_concept:
     concept_passenger_ship;
     concept_passenger_terminal;

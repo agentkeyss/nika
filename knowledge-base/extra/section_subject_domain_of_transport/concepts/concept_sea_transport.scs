@@ -6,7 +6,7 @@ concept_sea_transport
 => nrel_note:
     [Морской транспорт — вид водного транспорта, осуществляющий перевозки в морских и океанских акваториях.] (* <- lang_ru;; *);
 => nrel_inclusion:
-    concept_seaport;;
+    concept_seaport;
 => nrel_related_concept:
     concept_water_transport;
     concept_river_transport;;
