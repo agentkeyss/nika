@@ -2,10 +2,10 @@ concept_fuel
 <- sc_node_class;
 <- class;
 => nrel_main_idtf:
-	[дизель]
+	[топливо]
    (* <- lang_ru;; *);
 => nrel_note:
-	[жидкое топливо для ДВС.]
+	[топливо - жидкое топливо для ДВС.]
    (* <- lang_ru;; *);
 => nrel_related_concept:
    concept_electricity;;
