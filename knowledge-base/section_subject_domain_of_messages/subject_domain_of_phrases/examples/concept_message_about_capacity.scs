@@ -1,0 +1,36 @@
+concept_message_about_capacity
+<- sc_node_class;
+=> nrel_main_idtf:
+   [сообщение о вместимости]
+       (* <- lang_ru;; *);
+   [message about capacity]
+       (* <- lang_en;; *);
+=> nrel_wit_ai_idtf:
+   [about_capacity];
+<- rrel_key_sc_element:
+   ...
+   (*
+   => nrel_main_idtf:
+       [Опр. (сообщение о вместимости)]
+           (* <- lang_ru;; *);
+       [Def. (message about capacity)]
+           (* <- lang_en;; *);;
+   <- definition;;
+   <= nrel_sc_text_translation:
+       ...
+       (*
+       -> rrel_example:
+            [Сообщение о вместимости - атомарное сообщение, которое содержит сущность, информацию о вместимости которой необходимо найти.]
+                (* <- lang_ru;; *);;
+       *);
+       ...
+       (*
+       -> rrel_example:
+            [Message about capacity is an atomic message that contains an entity whose capacity information needs to be found.]
+                (* <- lang_en;; *);;
+       *);;
+   <= nrel_using_constants:
+       {
+           concept_atomic_message
+       };;    
+   *);;

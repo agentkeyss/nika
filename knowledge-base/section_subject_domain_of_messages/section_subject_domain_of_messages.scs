@@ -19,6 +19,7 @@ section_subject_domain_of_messages = [*
             nrel_reply;
             rrel_entity;
         ->rrel_not_maximum_studied_object_class:
+            concept_message_about_capacity;
             concept_greeting_message;
             concept_message_about_entity;
             concept_non_atomic_message;
